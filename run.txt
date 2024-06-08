@@ -1,1 +1,0 @@
-  Executing task: C:\MinGW\bin\g++.exe -g C:\Users\saqib\Desktop\GraphicsProject\graphics.h-project-template-main\Home\src\Hut.cpp -o C:\Users\saqib\Desktop\GraphicsProject\graphics.h-project-template-main\Home\build\Hut.exe -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 
